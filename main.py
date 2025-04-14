@@ -1,6 +1,6 @@
 import os
 import yt_dlp
-from moviepy.editor import * VideoFileClip
+from moviepy.editor import *
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
