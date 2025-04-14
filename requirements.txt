@@ -1,1 +1,2 @@
-flake8~=7.1.1 # MIT
+python-telegram-bot==20.0
+moviepy==1.0.3
